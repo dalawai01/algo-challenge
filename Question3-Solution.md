@@ -78,3 +78,5 @@ public class Permutations {
   ## Output
   
   5152.0
+
+    ![Challenge-3](https://github.com/dalawai01/algo-challenge/assets/130344323/90850f0f-ab83-4192-b0aa-b759bfaa24a9)
