@@ -83,3 +83,5 @@ System.out.println(decodedString);
 ## Output
 
 i love angelhack code challenge because it is fun and exciting and i dislike the word   that appears in the phrase
+
+![Challenge-5](https://github.com/dalawai01/algo-challenge/assets/130344323/2284b24e-14ff-4d0c-95d5-1ad832bec969)
