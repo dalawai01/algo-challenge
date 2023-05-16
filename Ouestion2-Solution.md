@@ -21,3 +21,7 @@ public class Main {
         return distance;
     }
 }
+
+## Output
+
+3540.0
