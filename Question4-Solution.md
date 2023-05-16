@@ -33,4 +33,5 @@ public class MinTaskCost {
 ## output
 
 475
+
 ![Challenge-4](https://github.com/dalawai01/algo-challenge/assets/130344323/09eba791-0a79-4520-bf1c-a702a14de52a)
