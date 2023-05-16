@@ -25,3 +25,6 @@ public class Main {
 ## Output
 
 3540.0
+
+![Challenge-2](https://github.com/dalawai01/algo-challenge/assets/130344323/0541b431-ab8e-471a-88c6-0ad343750f5a)
+
