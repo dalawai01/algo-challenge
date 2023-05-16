@@ -79,4 +79,6 @@ public class Permutations {
   
   5152.0
 
-    ![Challenge-3](https://github.com/dalawai01/algo-challenge/assets/130344323/90850f0f-ab83-4192-b0aa-b759bfaa24a9)
+    ![Challenge-3](https://github.com/dalawai01/algo-challenge/assets/130344323/a0df51e9-3be0-42f8-8e81-0a67432e534f)
+
+    
