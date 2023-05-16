@@ -1,6 +1,6 @@
-## Code
+## Code 
 
-public class GFG {
+public class GFG { 
     // Function to return the minimum number of delete operations
     static int findMinimumDeletion(int l, int r, int dp[][], String s) {
         if (l > r) {
